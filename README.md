@@ -43,7 +43,7 @@ Proyek ini memanfaatkan beberapa fitur inti dari ESP8266:
 
 ### Perangkat Lunak
 * [Arduino IDE](https://www.arduino.cc/en/software)
-* Driver USB untuk board ESP8266 Anda (CH340/CP2102).
+* [Driver USB untuk board ESP8266 (CH340/CP2102).](https://www.wch-ic.com/downloads/ch341ser_exe.html)
 * [ESP8266 Filesystem Uploader](https://github.com/esp8266/arduino-esp8266fs-plugin)
 
 ## ⚙️ Panduan Setup Lengkap
