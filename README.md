@@ -2,7 +2,7 @@
 
 Sebuah proyek sederhana namun efektif untuk mengubah mikrokontroler ESP8266 menjadi sebuah *Access Point* WiFi palsu yang menjebak pengguna dengan halaman *captive portal* interaktif. Proyek ini sangat cocok untuk keisengan atau demonstrasi cara kerja *captive portal*.
 
-Ketika seseorang terhubung ke jaringan **"WiFi Gratis"**, mereka akan dialihkan ke halaman login yang mensimulasikan proses koneksi secara meyakinkan, lengkap dengan perubahan status tombol dan efek suara.
+Ketika seseorang terhubung ke jaringan **"WiFi Gratis"**, mereka akan dialihkan ke halaman login atau halaman untuk menghubungkan WiFi yang mensimulasikan proses koneksi secara meyakinkan, lengkap dengan perubahan status tombol dan efek suara.
 
 > **Peringatan:** Proyek ini dibuat untuk tujuan edukasi dan hiburan. Penggunaan untuk aktivitas yang merugikan, ilegal, atau mengganggu orang lain sangat tidak dianjurkan. Gunakan dengan bijak dan bertanggung jawab.
 
